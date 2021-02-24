@@ -1,3 +1,6 @@
+###### NOTE
+This repo can be archived once [SPIKE](https://trello.com/c/Zbh6owAh/602-1-day-spike-publishing-events-from-jenkins-pipeline) is done.
+
 # Shared Library For Jenkins
 ## (jenkins_sharedlibrary)
 
