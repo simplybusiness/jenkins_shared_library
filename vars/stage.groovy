@@ -4,7 +4,7 @@
 def call(STAGE_NAME, Closure closure) {
 
 	// do something before, like logging, downloads, metrics, log in, triggers, ...
-
+    print "Staring stage ${STAGE_NAME}"
     def res = steps.stage(STAGE_NAME) {
     	closure.call()
     }
